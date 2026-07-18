@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 7426598,
+      "category": "Horror",
+      "title": "Silent Hill",
+      "description": "Find the way out for Hiroko",
+      "location": "Japan",
+      "date": "July 16, 2025",
+      "time": "12:00",
+      "petsAllowed": false,
+      "organizer": "ake HRK"
     }
   ]
 }
